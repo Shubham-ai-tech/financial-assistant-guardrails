@@ -90,44 +90,10 @@ uptqi/
 └── README.md
 ```
 
-## Architecture
 
-See [ARCHITECTURE.md](ARCHITECTURE.md) for a diagram and guardrail descriptions.
 
-## Demo (assignment)
 
-Record a short video showing:
 
-1. A normal finance question (e.g. ticker quote + interpretation).
-2. Guardrail cases: prompt injection blocked, off-topic refused, output disclaimer / guarantee softening.
-
-Paste the video link in [DEMO.md](DEMO.md) for reviewers.
-
-## Submission (company checklist)
-
-- [ ] Public GitHub repo with this code
-- [ ] `README.md` with setup + architecture (see [ARCHITECTURE.md](ARCHITECTURE.md))
-- [ ] `evaluation/EVALUATION_REPORT.md`
-- [ ] Demo link in `DEMO.md`
-- [ ] No secrets in git: only `.env.example`, never commit `.env`
-
-Submit via the form linked in your assignment PDF.
-
-### Push this repo to GitHub ([Shubham-ai-tech](https://github.com/Shubham-ai-tech))
-
-1. On GitHub: **New repository** → name **`financial-assistant-guardrails`** → **Public** → do **not** add README/license (this project already has them) → Create.
-2. In the project folder (remote `origin` is already set to that URL):
-
-```bash
-git push -u origin main
-```
-
-If you used a **different repo name**, update the remote:
-
-```bash
-git remote set-url origin https://github.com/Shubham-ai-tech/YOUR-REPO-NAME.git
-git push -u origin main
-```
 
 Sign in when Git prompts (browser or token). **Private repo:** add collaborator `uptiq-chaitanya` if your assignment requires it.
 
