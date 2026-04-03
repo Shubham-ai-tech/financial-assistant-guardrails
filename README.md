@@ -90,13 +90,6 @@ uptqi/
 └── README.md
 ```
 
-
-
-
-
-
-Sign in when Git prompts (browser or token). **Private repo:** add collaborator `uptiq-chaitanya` if your assignment requires it.
-
 ## License
 
 See [LICENSE](LICENSE) (MIT).
