@@ -1,0 +1,26 @@
+[
+  {
+    "id": "faq-1",
+    "topic": "diversification",
+    "question": "What is diversification?",
+    "answer": "Diversification means spreading investments across different assets, sectors, or geographies so that poor performance in one area does not dominate your entire portfolio. It is a general risk-management concept, not a guarantee of returns."
+  },
+  {
+    "id": "faq-2",
+    "topic": "volatility",
+    "question": "What is stock volatility?",
+    "answer": "Volatility measures how much a price tends to move up and down over time. Higher volatility usually means larger swings in price. Historical volatility is backward-looking and does not predict future prices."
+  },
+  {
+    "id": "faq-3",
+    "topic": "market_cap",
+    "question": "What is market capitalization?",
+    "answer": "Market capitalization is the total value of a company's outstanding shares, typically computed as share price times shares outstanding. It is one way to size a company but not a recommendation to buy or sell."
+  },
+  {
+    "id": "faq-4",
+    "topic": "dividend",
+    "question": "What is a dividend?",
+    "answer": "A dividend is a distribution of company earnings to shareholders, often in cash. Not all companies pay dividends, and dividend policies can change. Past dividends do not guarantee future ones."
+  }
+]
