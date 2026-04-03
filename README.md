@@ -113,6 +113,24 @@ Paste the video link in [DEMO.md](DEMO.md) for reviewers.
 
 Submit via the form linked in your assignment PDF.
 
+### Push this repo to GitHub ([Shubham-ai-tech](https://github.com/Shubham-ai-tech))
+
+1. On GitHub: **New repository** → name **`financial-assistant-guardrails`** → **Public** → do **not** add README/license (this project already has them) → Create.
+2. In the project folder (remote `origin` is already set to that URL):
+
+```bash
+git push -u origin main
+```
+
+If you used a **different repo name**, update the remote:
+
+```bash
+git remote set-url origin https://github.com/Shubham-ai-tech/YOUR-REPO-NAME.git
+git push -u origin main
+```
+
+Sign in when Git prompts (browser or token). **Private repo:** add collaborator `uptiq-chaitanya` if your assignment requires it.
+
 ## License
 
 See [LICENSE](LICENSE) (MIT).
